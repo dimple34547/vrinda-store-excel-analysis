@@ -43,3 +43,17 @@ Through this project, I practiced Excel data cleaning, formulas, data analysis, 
 ---
 
 ### 👩‍💻 Created by Dimple
+
+## 📸 Project Screenshots
+
+### Vrinda Store Dashboard
+![Vrinda Store Dashboard](https://raw.githubusercontent.com/dimple34547/vrinda-store-excel-analysis/main/Vrinda_Store_Dashboard.png)
+
+### Data Sheet
+![Vrinda Store Data](https://raw.githubusercontent.com/dimple34547/vrinda-store-excel-analysis/main/Vrinda_Store_Data.png)
+
+### Order Status Analysis
+![Order Status Analysis](https://raw.githubusercontent.com/dimple34547/vrinda-store-excel-analysis/main/Order_Status_Analysis.png)
+
+### Top 5 States Analysis
+![Top 5 States Analysis](https://raw.githubusercontent.com/dimple34547/vrinda-store-excel-analysis/main/Top_5_States_Analysis.png)
